@@ -1,0 +1,14 @@
+c:\users\p340\documents\visual studio 2015\Projects\Labtask1\Labtask1\bin\Debug\Labtask1.exe.config
+c:\users\p340\documents\visual studio 2015\Projects\Labtask1\Labtask1\obj\Debug\Labtask1.vbprojResolveAssemblyReference.cache
+c:\users\p340\documents\visual studio 2015\Projects\Labtask1\Labtask1\obj\Debug\Labtask1.Window.resources
+c:\users\p340\documents\visual studio 2015\Projects\Labtask1\Labtask1\obj\Debug\Labtask1.Resources.resources
+c:\users\p340\documents\visual studio 2015\Projects\Labtask1\Labtask1\obj\Debug\Labtask1.SplashScreen.resources
+c:\users\p340\documents\visual studio 2015\Projects\Labtask1\Labtask1\obj\Debug\Labtask1.vbproj.GenerateResource.Cache
+c:\users\p340\documents\visual studio 2015\Projects\Labtask1\Labtask1\obj\Debug\Labtask1.xml
+c:\users\p340\documents\visual studio 2015\Projects\Labtask1\Labtask1\bin\Debug\Labtask1.exe
+c:\users\p340\documents\visual studio 2015\Projects\Labtask1\Labtask1\bin\Debug\Labtask1.pdb
+c:\users\p340\documents\visual studio 2015\Projects\Labtask1\Labtask1\bin\Debug\Labtask1.xml
+c:\users\p340\documents\visual studio 2015\Projects\Labtask1\Labtask1\obj\Debug\Labtask1.exe
+c:\users\p340\documents\visual studio 2015\Projects\Labtask1\Labtask1\obj\Debug\Labtask1.pdb
+c:\users\p340\documents\visual studio 2015\Projects\Labtask1\Labtask1\obj\Debug\Labtask1.AboutBox1.resources
+c:\users\p340\documents\visual studio 2015\Projects\Labtask1\Labtask1\obj\Debug\Labtask1.Form2.resources
